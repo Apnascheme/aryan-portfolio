@@ -6,7 +6,7 @@ const projects = [
   {
     number: "01",
     name: "ApnaScheme",
-    type: "GovTech · Founder & Sole Developer",
+    type: "Founder & Sole Developer",
     text: "A multilingual WhatsApp platform helping people find government schemes they are eligible for—then guiding them to the next step.",
     metrics: ["50+ users", "160+ schemes", "4 languages"],
     stack: "Node.js · Express · MongoDB · WhatsApp Business API · Razorpay",
