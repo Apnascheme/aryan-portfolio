@@ -85,7 +85,7 @@ export default function Home() {
         <div className="experience-row">
           <div><strong>ZiroEDA</strong><p>Intern</p></div>
           <p>May 2026 — July 2026</p>
-          <p>Worked on a live PCB-design software product, collaborating with engineers to support real hardware-engineering workflows.
+          <p>Worked in a startup environment, collaborating on real-world software issues and delivering production-ready solutions.
 </p>
         </div>
       </section>
